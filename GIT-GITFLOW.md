@@ -9,7 +9,7 @@ Instala Git y GitHub CLI (`gh`). En la terminal de IntelliJ / VS Code:
 ```bash
 git --version
 gh --version
-git config --global user.name "TU NOMBRE Y APELLIDO"
+git config --global user.name "Kevin Salazar"
 git config --global user.email "TU_CORREO_DE_GITHUB"
 gh auth login
 # Selecciona GitHub.com > HTTPS > Login with a web browser

@@ -8,7 +8,8 @@ Proyecto educativo Java 25 / Spring Boot 4.0.0 / MySQL con DDD, capas, CQRS para
 
 **Practice repository:** https://github.com/AresSalamar/IMPRINT
 
-**Author:** Reemplaza por tus nombres y apellidos (el examen pide JavaDoc `@author` personal).
+**Author:** Kevin Salazar  
+**Student code:** U202417747
 
 ## Requisitos
 
@@ -55,6 +56,6 @@ HTTP 201: objeto con `id`, campos primitivos y `status`. HTTP 400: datos inváli
 
 ## Notas de adaptación
 
-En el examen respeta el nombre del paquete con tu código, el NRC, la base de datos, los mensajes y el nombre final del ZIP. La solución del repositorio es un ejemplo independiente para aprendizaje; no se garantiza compatibilidad con el ambiente del aula sin ejecutar Maven/MySQL.
+El paquete está personalizado con `u202417747`. En el examen respeta el nombre del paquete con tu código, el NRC, la base de datos, los mensajes y el nombre final del ZIP. La solución del repositorio es un ejemplo independiente para aprendizaje; no se garantiza compatibilidad con el ambiente del aula sin ejecutar Maven/MySQL.
 
 Consulta `GIT-GITFLOW.md` para autenticación, remotos, commits por bounded context y release.
